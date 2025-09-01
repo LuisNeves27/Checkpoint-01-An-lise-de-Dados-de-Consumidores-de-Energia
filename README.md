@@ -69,6 +69,33 @@ O notebook foi dividido em **40 exercícios**, contemplando:
 - Identificação de padrões de consumo.
 - Insights a partir de períodos de pico.
 
+- 36-)
+
+Número de variáveis (colunas): 9
+Número de registros (linhas): 2.075.259
+
+37-) 
+
+A distribuição do Global_active_power é semelhante à base completa. Pequenas flutuações podem ocorrer, mas os picos e padrões principais permanecem.
+
+38-)
+
+A maioria dos registros está concentrada em valores baixos de consumo (próximo de 0–2 kW).
+
+39-)
+
+Existe uma correlação positiva leve: quando a tensão aumenta, a intensidade tende a aumentar um pouco, mas o padrão pode não ser muito forte.
+
+40-)
+
+Cada cluster geralmente representa um padrão distinto de consumo:
+
+Cluster 1: consumo baixo em todos os submedidores.
+
+Cluster 2: consumo alto em alguns submedidores específicos.
+
+Cluster 3: picos isolados ou mistura de consumos médios.
+
 ---
 
 ## ⚙️ Como Executar o Projeto
